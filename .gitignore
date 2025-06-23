@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-freeze.txt
+
+# Media files - These will be created by the user
+videos/
+transcriptions/
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.webm
+*.wav
+*.txt
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Credentials
+token.json
+credentials.json
+cookies.txt 
